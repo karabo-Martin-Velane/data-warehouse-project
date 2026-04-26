@@ -13,5 +13,5 @@ We perform data ingestion of the raw data from the source system. The data is in
 We perfom data transformations, cleansing, normalization & standardization.
 
 ## Gold Layer
-We perform data integration, aggregation and application of business logic.
+We perform data integration, aggregation and application of business logic/rules.
 
